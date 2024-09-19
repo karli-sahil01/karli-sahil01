@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karli-sahil01&label=Profile%20views&color=0e75b6&style=flat" alt="karli-sahil01" /> </p>
 
-- 🌱 I’m currently learning **AI-ML @ IIIT Delhi**
+- 🌱 I’m currently learning **AI-ML related technologies @ IIIT Delhi**
 
 - 💬 Ask me about **Android App Development, C++ & Java**
 
 - 📫 How to reach me **karlisahil71@gmail.com**
 
-- ⚡ Fun fact **I love watching Anime,do you like it?**
+- ⚡ Fun fact **I love watching Anime, do you like it?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
